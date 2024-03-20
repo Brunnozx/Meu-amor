@@ -1,0 +1,40 @@
+div {
+    font-family: verdana;
+background-color: aliceblue;
+    border-radius: 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    text-align: center;
+}   
+
+a {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 18px;
+    text-decoration: none;
+    background-image: linear-gradient(to left, rgb(248, 179, 191), rgb(161, 59, 161), rgb(67, 79, 252), rgb(64, 61, 223));
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding:8px 25px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-family: verdana;
+    font-size: 18px;
+    margin: 15px 25px;
+    text-align: justify;
+    
+
+}
+
+h6 {
+    color: rgb(0, 0, 0);
+    font-family: verdana;
+    margin: 20px 20px;
+    text-align: center;
+    padding-bottom: 25px;
+}
